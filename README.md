@@ -13,4 +13,4 @@
 
 <b>My GitHub Stats</b>
 
-<div class="flex flex-col items-start gap-x-2 gap-y-2"><p class="font-bold">My GitHub Stats</p><a href="http://www.github.com/ lucasvalerio555 " target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcranney&amp;langs_count=10&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages"></a></div>
+<div class="flex flex-col items-start gap-x-2 gap-y-2"><a href="http://www.github.com/ lucasvalerio555 " target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcranney&amp;langs_count=10&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;locale=en&amp;custom_title=Top%20%Languages"></a></div>
