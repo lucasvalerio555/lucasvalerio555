@@ -12,6 +12,7 @@
 ### Badges
 
 <b>My GitHub Stats</b>
-<a href="http://www.github.com/ lucasvalerio555 "><img src="https://github-readme-streak-stats.herokuapp.com/?user= lucasvalerio555 &stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/ lucasvalerio555 " align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username= lucasvalerio555 &langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/ lucasvalerio555 " target="_blank" rel="noreferrer"><img src="https://github-readme-streak-stats.herokuapp.com/?user= lucasvalerio555 &amp;stroke=ffffff&amp;background=1c1917&amp;ring=0891b2&amp;fire=0891b2&amp;currStreakNum=ffffff&amp;currStreakLabel=0891b2&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" class="object-scale-down"></a>
