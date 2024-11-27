@@ -1,6 +1,6 @@
 # 👋 Hello welcome to my repository!
 ### Speciality in area Backend
- You can contact me at ✉️ [lucasvaleriopereira555@gmail.com](mailto:lucasvaleriopereira555@gmail.com)
+ You can contact me at<div width="36"> ✉️ </div>[lucasvaleriopereira555@gmail.com](mailto:lucasvaleriopereira555@gmail.com)
 
 ### Skills Hability
 <p align="left">
