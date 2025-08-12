@@ -56,6 +56,7 @@
 
 ---
 
+<!-- Pie de página mejorado con degradado y texto -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=36BCF7&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,2,5,30&text=Thanks%20for%20visiting!%20👋&fontSize=28&fontColor=fff&animation=fadeIn" />
 </p>
